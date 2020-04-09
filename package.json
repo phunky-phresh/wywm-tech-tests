@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cinema": "node problem1.js",
+    "dota": "node problem2.js",
+    "strings": "node problem3.js"
   },
   "keywords": [],
   "author": "",
